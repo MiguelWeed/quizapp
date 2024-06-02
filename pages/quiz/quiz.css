@@ -99,7 +99,7 @@ header {
     background: var(--white);
     width: 12px;
     height: 12px;
-    border-radius: 99px;
+    border-radius: 999px;
 }
 
 main {
