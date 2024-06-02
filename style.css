@@ -153,6 +153,8 @@ main {
 
     header {
         margin-block: 81px;
+        max-width: 1160px;
+        margin-inline: auto;
     }
 
     .tema {
@@ -173,6 +175,10 @@ main {
         height: 20px;
     }
 
+    main {
+        max-width: 1160px;
+        margin-inline: auto;
+    }
 
     main {
         display: flex;
