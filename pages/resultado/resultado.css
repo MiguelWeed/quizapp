@@ -178,6 +178,22 @@ main button:hover {
         padding: 8px;
     }
 
+    .assuntos_icone.html {
+        background: var(--bg-html);
+    }
+    
+    .assuntos_icone.css {
+        background: var(--bg-css);
+    }
+    
+    .assuntos_icone.javascript {
+        background: var(--bg-javascript);
+    }
+    
+    .assuntos_icone.acessibilidade {
+        background: var(--bg-acessibilidade);
+    }
+
     .assunto h1 {
         font-size: 28px;
     }
